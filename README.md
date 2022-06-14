@@ -41,8 +41,6 @@ dos.close();
 s.close();
 }
 catch(Exception e)
-{
-}
 }
 }
 ```
